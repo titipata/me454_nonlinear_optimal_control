@@ -8,4 +8,10 @@ This was my project in ME 454 Class. I modeled Thrust-Vectored Hovering Rocket a
 
 ## Example of simple desired trajectory
 
-![](hovering_rocket.gif =200x)
+Here we apply desired trajectory to system as shown below. The thrust-vectored is plotted in `u_1(t)` and `u_2(t)`
+
+<img src="trajectory.png" width="400">
+
+The output of the system
+
+<img src="hovering_rocket.gif" width="250">
