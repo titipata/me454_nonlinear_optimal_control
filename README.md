@@ -8,4 +8,4 @@ This was my project in ME 454 Class. I modeled Thrust-Vectored Hovering Rocket a
 
 ## Example of simple desired trajectory
 
-![](hovering_rocket.gif)
+![](hovering_rocket.gif =200x)
